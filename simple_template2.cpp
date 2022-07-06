@@ -18,20 +18,18 @@ using namespace std;
 using ll = long long;
 using ld = long double;
 
-#define rep(i,j, k)  for(int i = j; i < (k); ++i)
-#define ms0(X) memset((X), 0, sizeof((X)))
-#define sz(x) (int)x.size()
-#define all(x) (x).begin(),(x).end()
-#define rall(v) v.rbegin(),v.rend()
-#define trav(a,x) for (auto& a: x)
 #define nl "\n"
 #define vc vector
 #define vi vc<int>
 #define f first 
 #define s second
-#define mp make_pair
 #define pb push_back
 #define pi pair<int,int>
+#define sz(x) (int)x.size()
+#define all(x) (x).begin(),(x).end()
+#define rall(v) v.rbegin(),v.rend()
+#define ms0(X) memset((X), 0, sizeof((X)))
+#define rep(i,j, k)  for(int i = j; i < (k); ++i)
 #define getunique(v) {sort(v.begin(), v.end()); v.erase(unique(v.begin(), v.end()), v.end());}
 #define sum(a)     ( accumulate ((a).begin(), (a).end(), 0ll))
 #define mine(a)    (*min_element((a).begin(), (a).end()))
