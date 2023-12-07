@@ -1,7 +1,3 @@
-/**
- *   اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ 
- *   خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ 
-**/ 
 #include<algorithm>
 #include<iostream>
 #include<vector>
